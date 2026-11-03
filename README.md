@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @hugozepeda18 (Hugo Armando Zepeda Ruiz)
-- 🌱 I currently work as Orchestration & Distributed Systems Software Engineer
+- 🌱 I'm a Backend Sofware Engineer with professional experience in:
+            - Orchestration & Distributed Systems
+            - Microservices Architecture
+            - Cloud Native Systems
 - 👀 I’m interested in Software Development, Full-Stack Web Development and Artificial Intelligence. 
 - 📫 How to reach me : hugozepeda6@gmail.com or LinkedIn https://www.linkedin.com/in/hugo-zepeda-ruiz/ 
 - 👀 My day to day programming languages are Java, Javascript and Python
