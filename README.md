@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hugozepeda18 (Hugo Armando Zepeda Ruiz)
+- 👋 Hi, I’m Hugo Zepeda 
 - 🌱 I'm a Backend Sofware Engineer with professional experience in:
             - Orchestration & Distributed Systems
             - Microservices Architecture
